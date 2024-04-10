@@ -1,0 +1,24 @@
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Release\SeleniumScrape.exe
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Release\WebDriver.dll
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Release\SeleniumScrape.exe.config
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Release\SeleniumScrape.pdb
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Release\WebDriver.xml
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.OrderBot.resources
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.Properties.Resources.resources
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.csproj.GenerateResource.Cache
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.exe
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.pdb
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Release\SeleniumScrape.exe.config
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Release\SeleniumScrape.exe
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Release\SeleniumScrape.pdb
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Release\WebDriver.dll
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Release\WebDriver.xml
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.OrderBot.resources
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.Properties.Resources.resources
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.csproj.CopyComplete
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.exe
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Release\SeleniumScrape.pdb

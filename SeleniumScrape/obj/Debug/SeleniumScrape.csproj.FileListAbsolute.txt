@@ -1,0 +1,60 @@
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe.config
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.pdb
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csprojResolveAssemblyReference.cache
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.Properties.Resources.resources
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.GenerateResource.Cache
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.exe
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.pdb
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Debug\WebDriver.dll
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\bin\Debug\WebDriver.xml
+E:\Task\freelancer\2020-07-30 selenium scrape\car\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.OrderBot.resources
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe.config
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.pdb
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\bin\Debug\WebDriver.dll
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.OrderBot.resources
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.Properties.Resources.resources
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CopyComplete
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.exe
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.pdb
+C:\Users\HP\Desktop\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe.config
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.pdb
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\bin\Debug\WebDriver.dll
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.OrderBot.resources
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.Properties.Resources.resources
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CopyComplete
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.exe
+C:\Users\HP\Desktop\Desktop 26-12-2021\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.pdb
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe.config
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.pdb
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\bin\Debug\WebDriver.dll
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.AssemblyReference.cache
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.OrderBot.resources
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.Properties.Resources.resources
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.GenerateResource.cache
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CopyComplete
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.exe
+C:\Users\Yoga\Documents\prj\svt\SeleniumScrape-torproxy-v2\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.pdb
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe.config
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.exe
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\bin\Debug\SeleniumScrape.pdb
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\bin\Debug\WebDriver.dll
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.AssemblyReference.cache
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.SuggestedBindingRedirects.cache
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.OrderBot.resources
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.Properties.Resources.resources
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.GenerateResource.cache
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CoreCompileInputs.cache
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.csproj.CopyComplete
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.exe
+D:\projects\Projects\undetectedScraping_c#_2022_07_26\SeleniumScrape\SeleniumScrape\obj\Debug\SeleniumScrape.pdb
